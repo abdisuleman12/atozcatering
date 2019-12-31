@@ -5,12 +5,11 @@ import { Link } from 'gatsby'
 const LearnMorePage = () => (
   <Layout>
     <div id="main">
-      <Link to="/">
-        <a href="#" className="button">
-          Home
-        </a>
-      </Link>
-      <h1>You just landed on learn more</h1>
+      <section id="one">
+        <header className="major">
+          <h2>Learn More:</h2>
+        </header>
+      </section>
     </div>
   </Layout>
 )

@@ -12,8 +12,7 @@ class Header extends React.Component {
             <img src={avatar} alt="" />
           </a>
           <h1>
-            Welcome to <strong>ATOZ Catering and Design</strong>, magna sed
-            accumsan arcu neque. <a href="http://html5up.net">HTML5 UP</a>.
+            Welcome to <strong>ATOZ Catering and Design.</strong>
           </h1>
         </div>
         <Footer />
